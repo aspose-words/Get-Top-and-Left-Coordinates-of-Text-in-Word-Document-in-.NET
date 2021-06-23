@@ -22,3 +22,6 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consluting project is based on the following issue:
 [How to get coordinates (top and left) for any string or token in word document](https://github.com/aspose-free-consulting/projects/issues/85)
+
+
+[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/words/cpp) | [Docs](https://docs.aspose.com/words/cpp/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://apireference.aspose.com/words/cpp) | [Examples](https://github.com/aspose-words/Aspose.Words-for-C) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) |  [Temporary License](https://purchase.aspose.com/temporary-license)
